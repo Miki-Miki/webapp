@@ -415,13 +415,3 @@ C:\Users\PC\Desktop\Predavanja\Razvoj softvera I\Seminarski rad\DevAzure\webapp\
 C:\Users\PC\Desktop\Predavanja\Razvoj softvera I\Seminarski rad\DevAzure\webapp\B.U.Z\B.U.Z\obj\Debug\netcoreapp3.1\B.U.Z.dll
 C:\Users\PC\Desktop\Predavanja\Razvoj softvera I\Seminarski rad\DevAzure\webapp\B.U.Z\B.U.Z\obj\Debug\netcoreapp3.1\B.U.Z.pdb
 C:\Users\PC\Desktop\Predavanja\Razvoj softvera I\Seminarski rad\DevAzure\webapp\B.U.Z\B.U.Z\obj\Debug\netcoreapp3.1\B.U.Z.genruntimeconfig.cache
-C:\Users\PC\Desktop\Predavanja\Razvoj softvera I\Seminarski rad\GitHub\webapp\B.U.Z\B.U.Z\obj\Debug\netcoreapp3.1\B.U.Z.csprojAssemblyReference.cache
-C:\Users\PC\Desktop\Predavanja\Razvoj softvera I\Seminarski rad\GitHub\webapp\B.U.Z\B.U.Z\obj\Debug\netcoreapp3.1\B.U.Z.AssemblyInfoInputs.cache
-C:\Users\PC\Desktop\Predavanja\Razvoj softvera I\Seminarski rad\GitHub\webapp\B.U.Z\B.U.Z\obj\Debug\netcoreapp3.1\B.U.Z.AssemblyInfo.cs
-C:\Users\PC\Desktop\Predavanja\Razvoj softvera I\Seminarski rad\GitHub\webapp\B.U.Z\B.U.Z\obj\Debug\netcoreapp3.1\B.U.Z.csproj.CoreCompileInputs.cache
-C:\Users\PC\Desktop\Predavanja\Razvoj softvera I\Seminarski rad\GitHub\webapp\B.U.Z\B.U.Z\obj\Debug\netcoreapp3.1\B.U.Z.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\PC\Desktop\Predavanja\Razvoj softvera I\Seminarski rad\GitHub\webapp\B.U.Z\B.U.Z\obj\Debug\netcoreapp3.1\B.U.Z.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\PC\Desktop\Predavanja\Razvoj softvera I\Seminarski rad\GitHub\webapp\B.U.Z\B.U.Z\obj\Debug\netcoreapp3.1\B.U.Z.RazorAssemblyInfo.cache
-C:\Users\PC\Desktop\Predavanja\Razvoj softvera I\Seminarski rad\GitHub\webapp\B.U.Z\B.U.Z\obj\Debug\netcoreapp3.1\B.U.Z.RazorAssemblyInfo.cs
-C:\Users\PC\Desktop\Predavanja\Razvoj softvera I\Seminarski rad\GitHub\webapp\B.U.Z\B.U.Z\obj\Debug\netcoreapp3.1\B.U.Z.dll
-C:\Users\PC\Desktop\Predavanja\Razvoj softvera I\Seminarski rad\GitHub\webapp\B.U.Z\B.U.Z\obj\Debug\netcoreapp3.1\B.U.Z.pdb
